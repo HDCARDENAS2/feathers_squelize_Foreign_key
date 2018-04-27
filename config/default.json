@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3031,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "postgres": "postgres://siut4:siut4@localhost:5432/test_siut"
+}
